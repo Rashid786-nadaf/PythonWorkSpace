@@ -31,7 +31,3 @@ def calculate_result():
     print(f"Average    : {average:.2f}")
     print(f"Result     : {result}")
     print(f"Grade      : {grade}")
-
-
-# Program execution starts here
-
